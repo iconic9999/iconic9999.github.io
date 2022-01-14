@@ -20,7 +20,7 @@ body {
 
 main {
   background-color: rgb(255, 255, 255);
-  padding: 3rem;
+  padding: 10px 3rem;
   border-radius: 8px;
   box-shadow: 10px 10px rgb(171 206 0);
   display: flex;
