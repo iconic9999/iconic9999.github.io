@@ -64,13 +64,13 @@ a div {
   padding: 1rem;
   border-radius: 8px;
   text-align: center;
-  background-color: rgb(255, 187, 109);
+  background-color: rgb(206 151 61);
   box-shadow: 10px 10px rgb(183, 124, 238);
 }
 
 a div:hover {
   background-color: rgb(183, 124, 238);
-  box-shadow: 10px 10px rgb(255, 187, 109);
+  box-shadow: 10px 10px rgb(206 151 61);
 }
 
 a div:hover p {
