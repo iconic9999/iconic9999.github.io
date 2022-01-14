@@ -156,7 +156,7 @@ hr {
   flex: 5;
   margin-right: 5px;
   transition: transform 0.2s;
-  color: #024873;
+  color: #000;
 }
 
 .channels_item:hover {
