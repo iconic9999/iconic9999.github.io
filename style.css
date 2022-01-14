@@ -41,7 +41,7 @@ main div {
 }
 
 main .profile img {
-  width: 30%;
+  width: 25%;
   border-radius: 50%;
   transition: all .5s ease;
 }
