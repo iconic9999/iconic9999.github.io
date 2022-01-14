@@ -61,16 +61,16 @@ a {
 }
 
 a div {
-  background-color: rgb(183, 124, 238);
   padding: 1rem;
   border-radius: 8px;
-  box-shadow: 10px 10px rgb(255, 187, 109);
   text-align: center;
+  background-color: rgb(255, 187, 109);
+  box-shadow: 10px 10px rgb(183, 124, 238);
 }
 
 a div:hover {
-  background-color: rgb(255, 187, 109);
-  box-shadow: 10px 10px rgb(183, 124, 238);
+  background-color: rgb(183, 124, 238);
+  box-shadow: 10px 10px rgb(255, 187, 109);
 }
 
 a div:hover p {
