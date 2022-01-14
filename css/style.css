@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+:root {
+    --font: 'Karla', sans-serif;
+}
+
 *,
 :after,
 :before {
@@ -20,7 +25,6 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   text-align: center;
-  font-family: "GillSansNovaJL-Light", sans-serif;
   max-width: 100%;
   min-height: 100vh;
   height: auto;
